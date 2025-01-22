@@ -44,8 +44,12 @@ Define goals and analytical questions to address BTS’s challenges, focusing on
 ### 5. Evaluation
 Validate findings through cross-referencing benchmarks and stakeholder feedback to ensure actionable insights.
 
-### 6. Deployment
+Certainly! Below is the formatted content with separate sections for Deployment (Step 6) and Deliverables (Step 7), independent from each other:
+
+```markdown
+## 6. Deployment
 Organize results and insights in a GitHub repository:
+
 ```plaintext
 ├── data/
 │   ├── raw/          # Raw datasets
@@ -54,14 +58,28 @@ Organize results and insights in a GitHub repository:
 ├── scripts/          # Python scripts
 ├── visualizations/   # Charts and dashboards
 ├── README.md         # Project overview
+```
 
+---
 
-Deliverables
-Visualization File: Dashboards summarizing insights.
-Documentation: Comprehensive README file.
-Code File: Clean, reusable scripts.
-Presentation File: Summary of methods, findings, and recommendations.
+## 7. Deliverables
+- **Visualization File:** Dashboards summarizing insights.
+- **Documentation:** Comprehensive README file.
+- **Code File:** Clean, reusable scripts.
+- **Presentation File:** Methods, findings, and recommendations summary.
 
-Skills and Tools Needed
-Skills: Data Engineering, Data Wrangling, Visualization, Documentation.
-Tools: Python (Pandas, NumPy, Matplotlib, GeoPandas), Dask, Tableau, Power BI, Git/GitHub.
+---
+
+## Skills and Tools Needed
+### Skills
+- Data Engineering
+- Data Wrangling
+- Visualization
+- Documentation
+
+### Tools
+- **Programming Languages:** Python (Pandas, NumPy, Matplotlib, GeoPandas)
+- **Libraries:** Dask
+- **Visualization Tools:** Tableau, Power BI
+- **Version Control:** Git/GitHub
+```
