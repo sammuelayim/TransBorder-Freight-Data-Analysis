@@ -54,6 +54,7 @@ Organize results and insights in a GitHub repository:
 ├── scripts/          # Python scripts
 ├── visualizations/   # Charts and dashboards
 ├── README.md         # Project overview
+plaintext```
 
 ## 7. Deliverables
 - **Visualization File:** Dashboards summarizing insights.
