@@ -54,23 +54,14 @@ Organize results and insights in a GitHub repository:
 ├── scripts/          # Python scripts
 ├── visualizations/   # Charts and dashboards
 ├── README.md         # Project overview
-plaintext```
 
-## 7. Deliverables
-- **Visualization File:** Dashboards summarizing insights.
-- **Documentation:** Comprehensive README file.
-- **Code File:** Clean, reusable scripts.
-- **Presentation File:** Methods, findings, and recommendations summary.
 
-## Skills and Tools Needed
-### Skills
-- Data Engineering
-- Data Wrangling
-- Visualization
-- Documentation
+Deliverables
+Visualization File: Dashboards summarizing insights.
+Documentation: Comprehensive README file.
+Code File: Clean, reusable scripts.
+Presentation File: Summary of methods, findings, and recommendations.
 
-### Tools
-- **Programming Languages:** Python (Pandas, NumPy, Matplotlib, GeoPandas)
-- **Libraries:** Dask
-- **Visualization Tools:** Tableau, Power BI
-- **Version Control:** Git/GitHub
+Skills and Tools Needed
+Skills: Data Engineering, Data Wrangling, Visualization, Documentation.
+Tools: Python (Pandas, NumPy, Matplotlib, GeoPandas), Dask, Tableau, Power BI, Git/GitHub.
