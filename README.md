@@ -45,10 +45,9 @@ Define goals and analytical questions to address BTS’s challenges, focusing on
 Validate findings through cross-referencing benchmarks and stakeholder feedback to ensure actionable insights.
 
 ```markdown
-## 6. Deployment
+ 6. Deployment
 Organize results and insights in a GitHub repository:
 
-```plaintext
 ├── data/
 │   ├── raw/          # Raw datasets
 │   ├── cleaned/      # Processed datasets
