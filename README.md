@@ -17,8 +17,13 @@ Freight transportation faces significant challenges, including congestion, safet
 2. Which regions experience the most congestion or inefficiency?
 3. How do environmental metrics, such as emissions, vary by transportation mode?
 4. What are the most common safety incidents, and where do they occur?
+5. Total Value of Shipments by Country and State
+6. Freight Charges by Trade Type
+7. Distribution of DISAGMOT Across Different States
+8. What is the total shipment value for each TRDTYPE (trade type)?
 
 ## CRISP-DM Framework
+![image](https://github.com/user-attachments/assets/957c8c94-19e1-445b-a24c-63dacb46669f)
 
 ### 1. Business Understanding
 Define goals and analytical questions to address BTS’s challenges, focusing on inefficiencies, environmental impacts, and safety concerns.
