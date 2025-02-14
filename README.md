@@ -29,6 +29,7 @@ Freight transportation faces significant challenges, including congestion, safet
 
 ### 1. Business Understanding
 Define goals and analytical questions to address BTS’s challenges, focusing on inefficiencies, environmental impacts, and safety concerns.
+- Aligns with insights from [Blog 1: Embarking on the Data Adventure](https://medium.com/@sammuel.ayim3/embarking-on-a-data-adventure-uncovering-the-secrets-of-trans-border-freight-transportation-f680f5799187).
 
 ### 2. Data Understanding
 - Review dataset structure and attributes.
@@ -50,9 +51,6 @@ Define goals and analytical questions to address BTS’s challenges, focusing on
 
 ### 5. Evaluation
 Validate findings through cross-referencing benchmarks and stakeholder feedback to ensure actionable insights
-
----
-
 
 ---
 
@@ -136,7 +134,31 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 
 ### **6. Deployment**  
 - **Deliverables:** Dashboards, Python scripts, and recommendations.  
+  ## 🌟 Project Journey: From Data to Insights
   
+**Explore the full narrative of this analysis through my Medium blog series:**  
+
+### **1. Embarking on the Data Adventure**  
+📖 [*"Embarking on a Data Adventure: Uncovering the Secrets of Trans-Border Freight Transportation"*](https://medium.com/@sammuel.ayim3/embarking-on-a-data-adventure-uncovering-the-secrets-of-trans-border-freight-transportation-f680f5799187)  
+- **Phase:** Business Understanding & Data Exploration  
+- **Focus:** Defining goals, initial data exploration, and hypothesis formulation.  
+- **Key Themes:** Challenges in freight logistics, CRISP-DM alignment, and early trends.  
+
+---
+
+### **2. Preparing the Data**  
+📦 [*"The Wrapping Comes Off: Preparing the Data"*](https://medium.com/@sammuel.ayim3/the-wrapping-comes-off-preparing-the-data-3773ef1d85df)  
+- **Phase:** Data Understanding & Preparation  
+- **Focus:** Cleaning raw data, handling missing values, and feature engineering.  
+- **Key Themes:** Pandas workflows, anomaly detection, and creating emission metrics.  
+
+---
+
+### **3. Transforming Insights into Action**  
+🚀 [*"Unlocking North America’s Freight Efficiency: How CRISP-DM Transformed Data into Actionable Insights"*](https://medium.com/@sammuel.ayim3/unlocking-north-americas-freight-efficiency-how-crisp-dm-transformed-data-into-actionable-bc8fa3b76c90)  
+- **Phase:** Modeling, Evaluation & Deployment  
+- **Focus:** Hypothesis testing, visualization, and strategic recommendations.  
+- **Key Themes:** Emission reduction strategies, infrastructure optimization, and sustainability.  
 
 ---
 
