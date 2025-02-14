@@ -84,7 +84,7 @@ Organize results and insights in a GitHub repository:
 - **Libraries:** Dask
 - **Visualization Tools:** Tableau, Power BI
 - **Version Control:** Git/GitHub
-```
+
 # 🚚 Transborder Freight Data Analysis  
 **Leveraging CRISP-DM to Optimize North America's Freight Efficiency**  
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/sammuelayim/TransBorder-Freight-Data-Analysis)  
@@ -189,4 +189,6 @@ This project analyzes **transborder freight data (2020–2024)** from the Bureau
 ### **6. Deployment**  
 - **Deliverables:** Dashboards, Python scripts, and recommendations.  
 - **Repo Structure:**  
+
+```
 
