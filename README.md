@@ -136,14 +136,7 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 
 ### **6. Deployment**  
 - **Deliverables:** Dashboards, Python scripts, and recommendations.  
-- **Repo Structure:**  
-
-├── data/ # Raw & cleaned datasets
-├── notebooks/ # Jupyter notebooks
-├── scripts/ # Data processing & analysis
-├── visualizations report/ # Charts & dashboards
-└── README.md # Project overview
-
+  
 
 ---
 
@@ -173,4 +166,11 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
 
 **[Explore the Full Analysis](https://docs.google.com/document/d/1jUGwrrWwQmCcc4NUUxnosqSCrIsB6Ujz/edit)**  
 *Dashboards, code, and datasets available in this repository.*  
+
+- **Repo Structure:**
 ```
+├── data/ # Raw & cleaned datasets
+├── notebooks/ # Jupyter notebooks
+├── scripts/ # Data processing & analysis
+├── visualizations report/ # Charts & dashboards
+└── README.md # Project overview
