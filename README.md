@@ -133,8 +133,9 @@ Validate findings through cross-referencing benchmarks and stakeholder feedback 
  
 
 ### **6. Deployment**  
-- **Deliverables:** Dashboards, Python scripts, and recommendations.  
-  ## 🌟 Project Journey: From Data to Insights
+- **Deliverables:** Dashboards, Python scripts, and recommendations.
+   
+### 🌟 Project Journey: From Data to Insights
   
 **Explore the full narrative of this analysis through my Medium blog series:**  
 
