@@ -1,6 +1,8 @@
-# Trans Border Freight Data Analysis
+# 🚚 Transborder Freight Data Analysis  
+**Leveraging CRISP-DM to Optimize North America's Freight Efficiency**  
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/sammuelayim/TransBorder-Freight-Data-Analysis)  
 
-## Overview
+## 📌 Overview
 This project utilizes data from the Bureau of Transportation Statistics (BTS) to analyze freight transportation across various modes—road, rail, air, and water. By applying the CRISP-DM framework, our goal is to uncover inefficiencies, evaluate safety and environmental impacts, and propose actionable recommendations for enhancement. The dataset encompasses a comprehensive range of monthly data from 2020 to 2024, providing a robust foundation for meaningful insights and improvements in freight transportation efficiency and sustainability.
 
 ## Problem Statement
@@ -47,52 +49,10 @@ Define goals and analytical questions to address BTS’s challenges, focusing on
 - Tools: Matplotlib, Plotly, GeoPandas, Scikit-learn.
 
 ### 5. Evaluation
-Validate findings through cross-referencing benchmarks and stakeholder feedback to ensure actionable insights.
-
-```markdown
- 6. Deployment
-Organize results and insights in a GitHub repository:
-
-├── data/
-│   ├── raw/          # Raw datasets
-│   ├── cleaned/      # Processed datasets
-├── notebooks/        # Jupyter notebooks for analysis
-├── scripts/          # Python scripts
-├── visualizations/   # Charts and dashboards
-├── README.md         # Project overview
-```
+Validate findings through cross-referencing benchmarks and stakeholder feedback to ensure actionable insights
 
 ---
 
-## 7. Deliverables
-- **Visualization File:** Dashboards summarizing insights.
-- **Documentation:** Comprehensive README file.
-- **Code File:** Clean, reusable scripts.
-- **Presentation File:** Methods, findings, and recommendations summary.
-
----
-
-## Skills and Tools Needed
-### Skills
-- Data Engineering
-- Data Wrangling
-- Visualization
-- Documentation
-
-### Tools
-- **Programming Languages:** Python (Pandas, NumPy, Matplotlib, GeoPandas)
-- **Libraries:** Dask
-- **Visualization Tools:** Tableau, Power BI
-- **Version Control:** Git/GitHub
-
-# 🚚 Transborder Freight Data Analysis  
-**Leveraging CRISP-DM to Optimize North America's Freight Efficiency**  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/sammuelayim/TransBorder-Freight-Data-Analysis)  
-
----
-
-## 📌 Overview  
-This project analyzes **transborder freight data (2020–2024)** from the Bureau of Transportation Statistics (BTS) to address critical challenges in North America's freight industry: **congestion, rising costs, environmental impact, and inefficiencies**. Using the **CRISP-DM framework**, we uncover actionable insights to optimize transportation modes, reduce emissions, and enhance supply chain sustainability.  
 
 ---
 
@@ -100,7 +60,9 @@ This project analyzes **transborder freight data (2020–2024)** from the Bureau
 **Below are the core questions explored, aligned with the analysis sections (A-H) in the report:**  
 
 ### **A) How do freight movement patterns vary across transportation modes over time?**  
-📈 **Visualization:** [Freight Volume Trends by Mode](media/image6.png)  
+📈 **Visualization:** [Freight Volume Trends by Mode]![image](https://github.com/user-attachments/assets/b61aa109-1e8e-4f37-ba8c-2d1ae34401a6)
+
+  
 **Key Findings:**  
 - **Road transport dominates (65% share)**, but rail and pipeline usage declined post-2022.  
 - **Air and Foreign Trade Zones (FTZs)** grew steadily for high-value, low-weight shipments.  
@@ -109,15 +71,17 @@ This project analyzes **transborder freight data (2020–2024)** from the Bureau
 ---
 
 ### **B) Which regions experience the most congestion?**  
-📍 **Visualization:** [Congestion Hotspots](media/image7.png)  
+📍 **Visualization:** [Congestion Hotspots]![image](https://github.com/user-attachments/assets/c4be5517-a361-49d0-9096-39e84c2fcc2e)
+ 
 **Key Findings:**  
 - **Texas (39XX)**, **California (5301)**, and **Michigan (2304)** are top congested regions.  
 - Midwestern/border states face bottlenecks due to high trade activity and infrastructure constraints.  
 
 ---
 
-### **C) What is the environmental impact by transportation mode?**  
-🌿 **Visualization:** [Emissions by Mode](media/image4.png)  
+### **C) What is the environmental impact of transportation mode?**  
+🌿 **Visualization:** [Emissions by Mode]![image](https://github.com/user-attachments/assets/92b575e0-a16f-4326-9117-320bc3647eee)
+ 
 **Key Findings:**  
 - **Air freight emits 3x more CO₂ per ton-mile** than road/rail.  
 - Transitioning **10% of road freight to rail** could reduce emissions by **30%**.  
@@ -125,7 +89,8 @@ This project analyzes **transborder freight data (2020–2024)** from the Bureau
 ---
 
 ### **D) How is DISAGMOT distributed across regions/years?**  
-🚛 **Visualization:** [Transport Mode Distribution](media/image9.png)  
+🚛 **Visualization:** [Transport Mode Distribution]![image](https://github.com/user-attachments/assets/e8070e42-c7c4-4ddb-b7ee-9847fe511b94)
+  
 **Key Findings:**  
 - **Trucking (Code 3)** dominates trade value, peaking in 2023.  
 - **Pipeline and vessel** handle bulk shipments, with pipeline growth until 2023.  
@@ -133,7 +98,8 @@ This project analyzes **transborder freight data (2020–2024)** from the Bureau
 ---
 
 ### **E) What is the total shipment value by state/country?**  
-💰 **Visualization:** [Shipment Value by State](media/image11.png)  
+💰 **Visualization:** [Shipment Value by State]![image](https://github.com/user-attachments/assets/3ebf2f1c-e22b-467d-9c1a-5a048f7660a4)
+  
 **Key Findings:**  
 - **Texas (\$90B)**, **California (\$75B)**, and **Michigan (\$65B)** lead in shipment value.  
 - Coastal states (TX, CA) thrive via ports; industrial states (MI, OH) excel in manufacturing.  
@@ -141,7 +107,8 @@ This project analyzes **transborder freight data (2020–2024)** from the Bureau
 ---
 
 ### **F) How do freight charges compare for imports vs. exports?**  
-📦 **Visualization:** [Freight Charges by Trade Type](media/image12.png)  
+📦 **Visualization:** [Freight Charges by Trade Type]![image](https://github.com/user-attachments/assets/998cc8fd-adc0-44d5-837d-d70a10955718)
+
 **Key Findings:**  
 - **Import costs exceed exports by 15–20%** due to tariffs and customs delays.  
 - Streamlining import logistics could save millions annually.  
@@ -149,7 +116,8 @@ This project analyzes **transborder freight data (2020–2024)** from the Bureau
 ---
 
 ### **G) What factors drive seasonal freight trends?**  
-📅 **Visualization:** [Seasonal Volume Peaks](media/image5.png)  
+📅 **Visualization:** [Seasonal Volume Peaks]![Monthly Freight Volume Trends](https://github.com/user-attachments/assets/6f2e3f3b-9c40-4aae-9daa-783607a677e5)
+  
 **Key Findings:**  
 - Peaks in **Q2 (April–June)** and **Q4 (June–August)** align with industrial demand and holidays.  
 - January/February saw the lowest activity due to seasonal slowdowns.  
@@ -157,38 +125,52 @@ This project analyzes **transborder freight data (2020–2024)** from the Bureau
 ---
 
 ### **H) How are transport modes distributed across states?**  
-🗺️ **Visualization:** [State-wise Mode Distribution](media/image13.png)  
+🗺️ **Visualization:** [State-wise Mode Distribution]![Trends in Freight Volume Across Different Transportation Modes Over Time](https://github.com/user-attachments/assets/3cf624f2-dc4d-49ec-b006-2d2572c76440)
+  
 **Key Findings:**  
 - **Texas and California** rely on trucks (Code 3) and rail (Code 5).  
 - **Florida/Georgia** use vessels (Code 6) for port access.  
 
 ---
-
-## 🛠️ CRISP-DM Framework Walkthrough  
-### **1. Business Understanding**  
-- **Goal:** Optimize freight efficiency, reduce costs, and improve sustainability.  
-- **Key Questions:** Congestion hotspots, emission disparities, import/export cost gaps.  
-
-### **2. Data Understanding**  
-- **Data Source:** BTS Transborder Raw Data (2020–2024).  
-- **Tools:** Pandas Profiling, Tableau Prep for quality assessment.  
-
-### **3. Data Preparation**  
-- **Cleaning:** Handled missing values, and standardized units.  
-- **Feature Engineering:** Created emission estimates and congestion indices.  
-- **Tools:** Python (Pandas, Dask), PySpark.  
-
-### **4. Modeling & Analysis**  
-- **Trend Analysis:** Identified declining rail usage post-2022.  
-- **Geospatial Mapping:** Highlighted Texas and California as congestion hubs.  
-- **Tools:** GeoPandas, Matplotlib, Scikit-learn.  
-
-### **5. Evaluation**  
-- Validated findings against industry benchmarks (e.g., emission factors).  
+ 
 
 ### **6. Deployment**  
 - **Deliverables:** Dashboards, Python scripts, and recommendations.  
 - **Repo Structure:**  
 
-```
+├── data/ # Raw & cleaned datasets
+├── notebooks/ # Jupyter notebooks
+├── scripts/ # Data processing & analysis
+├── visualizations report/ # Charts & dashboards
+└── README.md # Project overview
 
+
+---
+
+## 💡 Key Insights  
+1. **Road transport dominates** but causes 65% of emissions.  
+2. **Texas, California, and Michigan** are critical hubs needing infrastructure upgrades.  
+3. **Import costs are 20% higher** due to tariffs and bottlenecks.  
+4. **Shifting 10% of road freight to rail** could cut emissions by 30%.  
+
+---
+
+## 🚀 Recommendations  
+1. **Expand rail/water infrastructure** to reduce road dependency.  
+2. **Optimize import logistics** via bulk discounts and automated customs.  
+3. **Adopt electric trucks** in congested states like Texas.  
+4. **Use predictive analytics** to manage seasonal peaks.  
+
+---
+
+## 🔧 Tools & Technologies  
+- **Languages:** Python (Pandas, NumPy)  
+- **Libraries:** Scikit-learn, Dask  
+- **Visualization:** Tableau, Matplotlib  
+- **Version Control:** Git/GitHub  
+
+---
+
+**[Explore the Full Analysis](https://docs.google.com/document/d/1jUGwrrWwQmCcc4NUUxnosqSCrIsB6Ujz/edit)**  
+*Dashboards, code, and datasets available in this repository.*  
+```
