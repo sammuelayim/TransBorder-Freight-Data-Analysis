@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/sammuelayim/TransBorder-Freight-Data-Analysis)  
 
 ## 📌 Overview
-This project utilizes data from the Bureau of Transportation Statistics (BTS) to analyze freight transportation across various modes—road, rail, air, and water. By applying the CRISP-DM framework, our goal is to uncover inefficiencies, evaluate safety and environmental impacts, and propose actionable recommendations for enhancement. The dataset encompasses a comprehensive range of monthly data from 2020 to 2024, providing a robust foundation for meaningful insights and improvements in freight transportation efficiency and sustainability.
+This project utilizes data from the Bureau of Transportation Statistics (BTS) to analyze freight transportation across various modes—road, rail, air, and water. By applying the CRISP-DM framework, our goal is to uncover inefficiencies, evaluate safety and environmental impacts, and propose actionable recommendations for enhancement. The dataset encompasses a comprehensive range of monthly data from 2020 to 2024 [Link to Data Sets](https://www.bts.gov/topics/transborder-raw-data), providing a robust foundation for meaningful insights and improvements in freight transportation efficiency and sustainability.
 
 ## Problem Statement
 Freight transportation faces significant challenges, including congestion, safety risks, environmental concerns, and economic disruptions. This project aims to address these issues through data-driven analysis.
